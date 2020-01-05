@@ -1,0 +1,52 @@
+<?xml-stylesheet type="text/xsl" href="https://blog.tinyfoo.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://blog.tinyfoo.com/tags/blog/</loc>
+    <lastmod>2019-10-25T17:08:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.tinyfoo.com/tags/hello/</loc>
+    <lastmod>2019-10-25T17:08:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.tinyfoo.com/post/hello-world/</loc>
+    <lastmod>2019-10-25T17:08:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.tinyfoo.com/post/</loc>
+    <lastmod>2019-10-25T17:08:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.tinyfoo.com/tags/</loc>
+    <lastmod>2019-10-25T17:08:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.tinyfoo.com/</loc>
+    <lastmod>2019-10-25T17:08:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.tinyfoo.com/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
